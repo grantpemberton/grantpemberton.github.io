@@ -37,6 +37,18 @@ h3.coursework {text-align: justify;}
 ul {text-align: justify;}
 ul.education {color: white;}
 
+h1.joker {
+	color:#00FF00;
+	text-align: center;
+}
+
+h3.joker2 {
+	color:#00FF00;
+	text-align: center;
+}
+
+p.joke_image {float: right}
+
 a.hidden {font-size: 1 in;}
 a.hidden:link {color: #000000;}
 a.hidden:hover {color: #00FF00;}
