@@ -29,10 +29,10 @@ body {
 	background-color: #000000;
 }
 
-h3.education {text-align: justify;}
-h3.skills {text-align: justify;}
-h3.activities {text-align: justify;}
-h3.coursework {text-align: justify;}
+h3.education {text-align: right;}
+h3.skills {text-align: right;}
+h3.activities {text-align: right;}
+h3.coursework {text-align: right;}
 
 ul {text-align: justify;}
 ul.education {color: white;}
