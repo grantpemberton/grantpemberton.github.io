@@ -47,7 +47,7 @@ h6.joker2 {
 	text-align: center;
 }
 
-p.joke_image {float: center}
+p.joke_image {text-align: center}
 
 a.hidden {font-size: 40px;}
 a.hidden:link {color: #000000;}
