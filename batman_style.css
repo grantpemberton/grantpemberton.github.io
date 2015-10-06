@@ -42,14 +42,14 @@ h1.joker {
 	text-align: center;
 }
 
-h3.joker2 {
+h6.joker2 {
 	color:#00FF00;
 	text-align: center;
 }
 
-p.joke_image {float: right}
+p.joke_image {float: center}
 
-a.hidden {font-size: 1 in;}
+a.hidden {font-size: 40px;}
 a.hidden:link {color: #000000;}
 a.hidden:hover {color: #00FF00;}
 a.hidden:visited {color: #CC0000;}
