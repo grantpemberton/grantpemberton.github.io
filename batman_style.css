@@ -13,7 +13,9 @@ h3 {
 	text-align: center;
 }
 
-a {text-align: center;}
+a.bio {text-align: center;}
+a.resume {text-align: center;}
+a.index {text-align: center;}
 
 a:link {color: #FF0000;}
 
@@ -48,7 +50,10 @@ h6.joker2 {
 
 p.joke_image {text-align: center}
 
-a.hidden {font-size: 40px;}
+a.hidden {
+	font-size: 40px;
+	text-align: center;	
+}
 a.hidden:link {color: #000000;}
 a.hidden:hover {color: #00FF00;}
 a.hidden:visited {color: #CC0000;}
