@@ -5,9 +5,10 @@ h6 {text-align: center;}
 h3 {color: yellow;}
 h3 {text-align: center;}
 a:link {text-align: center;}
-a:hover {color: #FF0000;}
+a:link {color: #FF0000;}
+a:hover {color: #00FFFF;}
 p.bat_image {text-align: center;}
 body {color: yellow;}
 body {background-color: #000000;}
-ul {text-align: center;}
+ul {text-align: justify;}
 ul.education {color: white;}
