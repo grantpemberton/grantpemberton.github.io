@@ -9,7 +9,5 @@ a:hover {color: #FF0000;}
 p.bat_image {text-align: center;}
 body {color: yellow;}
 body {background-color: #000000;}
-u1.coursework {text-align: center;}
-u1.skills {text-align: center;}
-u1.education {text-align: center;}
-u1.activities {text-align: center;}
+ul {text-align: center;}
+ul.education {color: white;}
