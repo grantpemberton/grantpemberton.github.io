@@ -13,10 +13,9 @@ h3 {
 	text-align: center;
 }
 
-a:link {
-	text-align: center;
-	color: #FF0000;
-}
+a {text-align: center;}
+
+a:link {color: #FF0000;}
 
 a:hover {color: #00FFFF;}
 
